@@ -45,7 +45,7 @@ console.log(Animal.constructor)
 // Entenda o porque na imagem abaixo
 ```
 
-![Introduc%CC%A7a%CC%83o%20e%20orientac%CC%A7a%CC%83o%20a%20objetos%20634d0f5237c1424c923845d86b8d9f51/Untitled.png](Introduc%CC%A7a%CC%83o%20e%20orientac%CC%A7a%CC%83o%20a%20objetos%20634d0f5237c1424c923845d86b8d9f51/Untitled.png)
+![./note5/Untitled.png](./note5/Untitled.png)
 
 ```jsx
 function Animal(){
@@ -212,27 +212,27 @@ String.prototype.split = function() {console.log('tudo nosso, perdeu playboy...'
 - palavra chave **class**
 - açúcar sintático das funções
 
-![Introduc%CC%A7a%CC%83o%20e%20orientac%CC%A7a%CC%83o%20a%20objetos%20634d0f5237c1424c923845d86b8d9f51/Untitled%201.png](Introduc%CC%A7a%CC%83o%20e%20orientac%CC%A7a%CC%83o%20a%20objetos%20634d0f5237c1424c923845d86b8d9f51/Untitled%201.png)
+![./note5/Untitled%201.png](./note5/Untitled%201.png)
 
-![Introduc%CC%A7a%CC%83o%20e%20orientac%CC%A7a%CC%83o%20a%20objetos%20634d0f5237c1424c923845d86b8d9f51/Untitled%202.png](Introduc%CC%A7a%CC%83o%20e%20orientac%CC%A7a%CC%83o%20a%20objetos%20634d0f5237c1424c923845d86b8d9f51/Untitled%202.png)
+![./note5/Untitled%202.png](./note5/Untitled%202.png)
 
 ## Modificadores de acesso
 
 - JavaScript ainda não possui
 - Conhecendo um pouco de como funciona no NodeJS:
 
-    ![Introduc%CC%A7a%CC%83o%20e%20orientac%CC%A7a%CC%83o%20a%20objetos%20634d0f5237c1424c923845d86b8d9f51/Untitled%203.png](Introduc%CC%A7a%CC%83o%20e%20orientac%CC%A7a%CC%83o%20a%20objetos%20634d0f5237c1424c923845d86b8d9f51/Untitled%203.png)
+    ![./note5/Untitled%203.png](./note5/Untitled%203.png)
 
 - Como é na versão 12 do JS:
 
-    ![Introduc%CC%A7a%CC%83o%20e%20orientac%CC%A7a%CC%83o%20a%20objetos%20634d0f5237c1424c923845d86b8d9f51/Untitled%204.png](Introduc%CC%A7a%CC%83o%20e%20orientac%CC%A7a%CC%83o%20a%20objetos%20634d0f5237c1424c923845d86b8d9f51/Untitled%204.png)
+    ![./note5/Untitled%204.png](./note5/Untitled%204.png)
 
 ## Encapsulamento
 
-![Introduc%CC%A7a%CC%83o%20e%20orientac%CC%A7a%CC%83o%20a%20objetos%20634d0f5237c1424c923845d86b8d9f51/Untitled%205.png](Introduc%CC%A7a%CC%83o%20e%20orientac%CC%A7a%CC%83o%20a%20objetos%20634d0f5237c1424c923845d86b8d9f51/Untitled%205.png)
+![./note5/Untitled%205.png](./note5/Untitled%205.png)
 
 ## Static
 
 - acessar métodos/atributos sem instanciar uma classe.
 
-    ![Introduc%CC%A7a%CC%83o%20e%20orientac%CC%A7a%CC%83o%20a%20objetos%20634d0f5237c1424c923845d86b8d9f51/Untitled%206.png](Introduc%CC%A7a%CC%83o%20e%20orientac%CC%A7a%CC%83o%20a%20objetos%20634d0f5237c1424c923845d86b8d9f51/Untitled%206.png)
+    ![./note5/Untitled%206.png](./note5/Untitled%206.png)

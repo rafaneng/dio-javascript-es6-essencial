@@ -48,7 +48,7 @@ console.log(minhaVariavel);
 
 TypeScript é uma linguagem criada pela Microsoft e nada mais é que um superset do ECMAScript 6 que, por sua vez, é um superset do ECMAScript 5, que usamos mais frequentemente como base para nosso clássico JavaScript. Isso significa que praticamente qualquer código JavaScript é também um código TypeScript
 
-![Histo%CC%81ria%20e%20conceitos%208f149b541d004500993986f30f6a3a95/Untitled.png](Histo%CC%81ria%20e%20conceitos%208f149b541d004500993986f30f6a3a95/Untitled.png)
+![./note1/Untitled.png](./note1/Untitled.png)
 
 ## Funções de primeira classe e ordem maior
 
