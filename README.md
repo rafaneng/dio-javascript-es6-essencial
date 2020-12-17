@@ -8,7 +8,7 @@ Desenvolvedor Front End - Exactaworks
 
 ## Introdução ao ES6
 
-[História e conceitos](JavaScript%20ES6%20essencial%2026731ee85f244f75a417f2a75daa4e58/Histo%CC%81ria%20e%20conceitos%208f149b541d004500993986f30f6a3a95.md)
+[História e conceitos](./JavaScript%20ES6%20essencial%2026731ee85f244f75a417f2a75daa4e58/Histo%CC%81ria%20e%20conceitos%208f149b541d004500993986f30f6a3a95.md)
 
 [Currying, Hoisting, Imutabilidade, Tipos e Variáveis](JavaScript%20ES6%20essencial%2026731ee85f244f75a417f2a75daa4e58/Currying,%20Hoisting,%20Imutabilidade,%20Tipos%20e%20Varia%CC%81v%20dd994cf5b8a54e41b0d7381d025fbec7.md)
 
